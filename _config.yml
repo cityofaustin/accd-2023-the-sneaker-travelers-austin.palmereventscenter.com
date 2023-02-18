@@ -10,10 +10,6 @@ event_coordinator:
   name: Alejandro Aguilar
   email: alejandro.aguilar@austintexas.gov
   phone: 5124044228
-security_coordinator:
-  name: Ava Palatiere
-  email: Ava.Palatiere@austintexas.gov
-  phone: 5124044115
 it_coordinator:
   name: Jason Perkins
   email: jason.perkins@austintexas.gov
